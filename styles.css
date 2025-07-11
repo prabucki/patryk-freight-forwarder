@@ -282,7 +282,7 @@ body {
     height: 350px;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center -150px;
+    object-position: center;
     border: 4px solid rgba(255, 255, 255, 0.3);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
